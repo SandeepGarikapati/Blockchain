@@ -13,7 +13,7 @@ git clone https://github.com/SandeepGarikapati/Blockchain.git
 ## cd to the client directory
 
 ```
-cd pandacoinweb3/client
+cd Blockchain/client
 ```
 ## install node modules
 
