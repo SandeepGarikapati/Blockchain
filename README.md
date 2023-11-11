@@ -207,6 +207,13 @@ $ npx hardhat init
   
 ```
 
+## To run the application
+```
+cd Blockchain/Client
+npm run dev
+
+```
+
 ## Select `Create a JavaScript project`
 
 Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in this project.
