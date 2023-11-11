@@ -7,7 +7,7 @@ This is a Vite+React WEB3.0 Application using Tailwindcss for PandaCoin using Et
 ### Clone this repository
 
 ```
-git clone https://github.com/mounishvatti/pandacoinweb3.git
+git clone https://github.com/SandeepGarikapati/Blockchain.git
 ```
 
 ## cd to the client directory
