@@ -229,6 +229,23 @@ Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in t
 ## Screenshots 
 ![SecureCoin](client/images/Homepage.png)
 
+![SecureCoin](client/images/Service.png)
+
+![SecureCoin](client/images/History.png)
+
+![SecureCoin](client/images/Metamask_api.png)
+
+![SecureCoin](client/images/Cardpayment.png)
+
+![SecureCoin](client/images/Forms.jpg)
+
+
+
+
+
+
+
+
 
 
 
