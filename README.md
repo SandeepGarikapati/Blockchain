@@ -227,6 +227,7 @@ Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in t
 
 
 ## Screenshots 
+![SecureCoin](client/src/assets/Homepage.png)
 
 
 
