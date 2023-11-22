@@ -1,8 +1,8 @@
-# PandaCoin Web3.0 Application (Vite + React)
+# SecureCoin Your Digital Currency Fortress (Vite + React)
 
-This is a Vite+React WEB3.0 Application using Tailwindcss for PandaCoin using Ethereum Blockchain Network &amp; writing Solidity Smart Contracts and integrating it with Metamask Extension to transfer SepoliaETH globally.
+This is a Vite+React WEB3.0 Application using Tailwindcss for SecureCoin using Ethereum Blockchain Network &amp; writing Solidity Smart Contracts and integrating it with Metamask Extension to transfer SepoliaETH globally.
 
-![PandaCoin](client/src/assets/website.png)
+![SecureCoin](client/src/assets/website.png)
 
 ### Clone this repository
 
@@ -35,7 +35,7 @@ npm install --save ethers
 ## cd to the smart_contract directory
 
 ```
-cd pandacoinweb3/smart_contract
+cd securecoinweb3/smart_contract
 ```
 
 ```
@@ -222,6 +222,11 @@ Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in t
 
 ## Video Lecture by [`JS Mastery`](https://www.youtube.com/@javascriptmastery)
 [`Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto`](https://youtu.be/Wn_Kb3MR_cU?si=GP6AewHbyVxhR2kw) by [`@adrianhajdin`](https://github.com/adrianhajdin) 
+
+
+##Screenshots
+
+
 
 
 
