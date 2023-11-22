@@ -214,7 +214,14 @@ Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in t
 [`Hardhat-Plugins`](https://hardhat.org/hardhat-runner/plugins)
 
 ## Video Lecture by [`JS Mastery`](https://www.youtube.com/@javascriptmastery)
-[`Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto`](https://youtu.be/Wn_Kb3MR_cU?si=GP6AewHbyVxhR2kw) by [`@adrianhajdin`](https://github.com/adrianhajdin) 
+[`Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto`](https://youtu.be/Wn_Kb3MR_cU?si=GP6AewHbyVxhR2kw) by [`@adrianhajdin`](https://github.com/adrianhajdin)
+
+
+## Screenshots
+
+![Home page](client/src/assets/Homepage.png)
+
+![Service page](client/src/assets/Service.png)
 
 
 
