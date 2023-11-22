@@ -1,19 +1,19 @@
-# PandaCoin Web3.0 Application (Vite + React)
+# SecureCoin Your Digital Currency Fortress (Vite + React)
 
-This is a Vite+React WEB3.0 Application using Tailwindcss for PandaCoin using Ethereum Blockchain Network &amp; writing Solidity Smart Contracts and integrating it with Metamask Extension to transfer SepoliaETH globally.
+This is a Vite+React WEB3.0 Application using Tailwindcss for SecureCoin using Ethereum Blockchain Network &amp; writing Solidity Smart Contracts and integrating it with Metamask Extension to transfer SepoliaETH globally.
 
-![PandaCoin](client/src/assets/website.png)
+![SecureCoin](client/src/assets/website.png)
 
 ### Clone this repository
 
 ```
-git clone https://github.com/mounishvatti/pandacoinweb3.git
+git clone https://github.com/SandeepGarikapati/Blockchain.git
 ```
 
 ## cd to the client directory
 
 ```
-cd pandacoinweb3/client
+cd Blockchain/client
 ```
 ## install node modules
 
@@ -35,7 +35,7 @@ npm install --save ethers
 ## cd to the smart_contract directory
 
 ```
-cd pandacoinweb3/smart_contract
+cd securecoinweb3/smart_contract
 ```
 
 ```
@@ -207,6 +207,13 @@ $ npx hardhat init
   
 ```
 
+## To run the application
+```
+cd Blockchain/Client
+npm run dev
+
+```
+
 ## Select `Create a JavaScript project`
 
 Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in this project.
@@ -214,6 +221,7 @@ Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in t
 [`Hardhat-Plugins`](https://hardhat.org/hardhat-runner/plugins)
 
 ## Video Lecture by [`JS Mastery`](https://www.youtube.com/@javascriptmastery)
+<<<<<<< HEAD
 [`Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto`](https://youtu.be/Wn_Kb3MR_cU?si=GP6AewHbyVxhR2kw) by [`@adrianhajdin`](https://github.com/adrianhajdin)
 
 
@@ -222,6 +230,35 @@ Make sure you checkout the `@nomiclabs/hardhat-waffle` as we'll be using it in t
 ![Home page](client/src/assets/Homepage.png)
 
 ![Service page](client/src/assets/Service.png)
+=======
+
+[`Build and Deploy a Modern Web 3.0 Blockchain App | Solidity, Smart Contracts, Crypto`](https://youtu.be/Wn_Kb3MR_cU?si=GP6AewHbyVxhR2kw) by [`@adrianhajdin`](https://github.com/adrianhajdin) 
+>>>>>>> c4f74a18fe84fbdf382ce800e9a862e25205278e
+
+
+
+## Screenshots 
+![SecureCoin](client/images/Homepage.png)
+
+![SecureCoin](client/images/Service.png)
+
+![SecureCoin](client/images/History.png)
+
+![SecureCoin](client/images/Metamask_api.png)
+
+![SecureCoin](client/images/Cardpayment.png)
+
+![SecureCoin](client/images/Forms.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
